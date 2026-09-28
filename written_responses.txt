@@ -10,7 +10,9 @@ Notes (anything odd in the logs, how you checked the decode against the PNGs):
 
 
 ### Part B - identify system
-
+Overall, I think that from the data the change in the velocity really occurs as the slope of the graph (initially upwards)
+*begins* to curve into a plateau (when the rate of deg/s drops from 15 deg/s to 0 deg/s), which occurs around the datapoint
+<3.005,0,54.8>. Afterwards, the degrees continue to rise to 56.1 and plateau for good (remaining there for the rest of the measured time).
 
 
 ### Part C - control design choices
@@ -18,3 +20,7 @@ Notes (anything odd in the logs, how you checked the decode against the PNGs):
 
 
 ### Part D - reflection
+Honestly, I can see now that this is far beyond what I expected. I am very fortunate 
+for this opportunity to learn from this, but I can see that at this moment in time, 
+there is a lot of learning to be done before joining the team. Thanks for the opportunity,
+and I look forward to learning more before joining the team in the future.
